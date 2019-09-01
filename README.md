@@ -4,11 +4,11 @@
 Protolab is a homemade laboratory power supply.
 
 ## Photos
-
-### Front power on
-![Protolab front power on](https://raw.githubusercontent.com/phoax/protolab/master/photos/Protolab-front-powerOn.jpg)
 ### Perspective power on
 ![Protolab perspective power on](https://raw.githubusercontent.com/phoax/protolab/master/photos/Protolab-perspective-powerOn.jpg)
+### Front power on
+![Protolab front power on](https://raw.githubusercontent.com/phoax/protolab/master/photos/Protolab-front-powerOn.jpg)
+
 ### Inside view from above
 ![Protolab inside](https://raw.githubusercontent.com/phoax/protolab/master/photos/Protolab-inside.jpg)
 ### Top view
